@@ -1,0 +1,7 @@
+Payroll data for B'Elanna Torres
+ 
+Base Salary:    1400.00
+Commission:      435.16 (2.99% of 14553.87)
+Expenses:        137.92
+----------------------- 
+Total:          1697.24

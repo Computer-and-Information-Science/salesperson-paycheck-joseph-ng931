@@ -1,0 +1,7 @@
+Payroll data for Harry Kim
+ 
+Base Salary:     980.00
+Commission:      310.25 (2.75% of 11281.66)
+Expenses:         97.78
+----------------------- 
+Total:          1192.47
