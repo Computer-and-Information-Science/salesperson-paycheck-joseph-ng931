@@ -18,7 +18,7 @@ int main() {
   inData >> firstName >> lastName >> baseSalary >> commissionPercent >> totalSales >> expenses;
 
   commission = totalSales * (commissionPercent / 100);
-  grossPay = (baseSalary + commission) - expenses;
+  grossPay = baseSalary + commission + expenses;
 
   outData.open("output1.txt");
 
@@ -40,7 +40,7 @@ int main() {
   inData >> firstName >> lastName >> baseSalary >> commissionPercent >> totalSales >> expenses;
 
   commission = totalSales * (commissionPercent / 100);
-  grossPay = (baseSalary + commission) - expenses;
+  grossPay = baseSalary + commission + expenses;
 
   outData.open("output2.txt");
 
@@ -62,7 +62,7 @@ int main() {
   inData >> firstName >> lastName >> baseSalary >> commissionPercent >> totalSales >> expenses;
 
   commission = totalSales * (commissionPercent / 100);
-  grossPay = (baseSalary + commission) - expenses;
+  grossPay = baseSalary + commission + expenses;
 
   outData.open("output3.txt");
 
